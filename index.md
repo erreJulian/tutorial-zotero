@@ -1,4 +1,4 @@
-# Tutorial Zotero
+Tutorial para instalar Zotero, ZotFile y Better BibTex para Zotero.
 
 ## Primeros pasos
  
