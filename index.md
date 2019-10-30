@@ -11,13 +11,11 @@ Tutorial para instalar Zotero, ZotFile y Better BibTex para Zotero.
 3. Luego instalar el Conector. Es lo que permite cargar cosas directamente desde el navegador que prefieran. (Más sobre esto, luego)
 ![](https://i.imgur.com/tXdNVoR.png)
 
-4. Si tenemos Chrome, 
-
-5. Tenemxs Zotero instalado en la compu, pero la base de datos todavía está vacía:
+4. Tenemos Zotero instalado en la compu, pero la base de datos todavía está vacía:
 
 ![](https://i.imgur.com/pCo4K1A.png)
 
-5. Podemxs sumarle cosas arrastrando y soltando archivos de cualquier carpeta a la pantalla principal:
+5. Podemos sumarle cosas arrastrando y soltando archivos de cualquier carpeta a la pantalla principal:
 ![](https://i.imgur.com/bSJDgfL.png)
 
 6. O usar el conector que se instaló en 3. y agregar desde la página de la revista que nos interese:![](https://i.imgur.com/0ny7xCO.png)
