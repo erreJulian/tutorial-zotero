@@ -65,12 +65,11 @@ Para ello, es necesario hacer lo siguiente:
 
 4. Confirmamos que queremos que esa sea la carpeta base. ![](https://i.imgur.com/kTx99hO.png)
 
-Por último, debemos indicarle a ZotFile que queremos que cada vez que carguemos un archivo nuevo a nuestra biblioteca, lo mueva a esta carpeta.
+	+ Por último, debemos indicarle a ZotFile que queremos que cada vez que carguemos un archivo nuevo a nuestra biblioteca, lo mueva a esta carpeta.
 
 5. Hacemos click en "Herramientas" y luego "Preferencias de ZotFile" ![](https://i.imgur.com/T815LNG.png)
 
 6. Y seleccionamos la misma carpeta que seleccionamos en 3. ![](https://i.imgur.com/JwrDNIf.png)
-
 
 ## Better BibTeX para Zotero
 BibTeX es (una) de las maneras en las que se manejan las biblografías en LaTeX. _Better BibTeX for Zotero_ permite incorporar Zotero de manera más sencilla a LaTeX.
