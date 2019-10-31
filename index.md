@@ -1,5 +1,4 @@
 Tutorial para instalar Zotero, ZotFile y Better BibTex para Zotero.
-
 ## Primeros pasos
  
 1. En [la página de Zotero](http://www.zotero.org) hacer click en "Download".
@@ -56,4 +55,16 @@ Tal como ZotFile, Better BibTex se instala como una extensión a Zotero.
 2. Tal como hicimos con ZotFile más arriba, lo instalamos desde el gestor de complementos de Zotero.
 3. Hacemos click en "Herramientas" y luego "complementos". ![](https://i.imgur.com/iWZNDt1.png)
 4. Ahora "Instalar complemento desde archivo" y buscamos el .xpi de Better BibTex que descargamos en 1. ![](https://i.imgur.com/u8SG2Sr.png)
-5. Seguimos los pasos, tal como hicimos con ZotFile. También tendremos que reiniciar. [](https://i.imgur.com/c7EvyTQ.png)
+5. Seguimos los pasos, tal como hicimos con ZotFile. También tendremos que reiniciar. ![](https://i.imgur.com/c7EvyTQ.png)
+6. Después de reiniciar Zotero, nos recibe esta pantalla de bienvenida para configurar el complemento ![](https://i.imgur.com/iv0P9YJ.png)
+7. Es muy probable que sea la primera vez que lo usan, así que recomendamos usar esa opción. Después hacemos click en "Siguiente" hasta terminar la configuración. ![](https://i.imgur.com/I5mOegr.png)
+
+### Como usarlo
+
+A diferencia de ZotFile, Better BibTex es un complemento que funciona casi solo. Recordemos que lo necesitamos sólo si quisiéramos usar LaTeX para escribir, por lo que queremos que Zotero (con Better BibTex) nos genere un archivo .bib con todas las "claves" que necesitamos para que LaTeX pueda armar la bibliografía automáticamente. Para ello necesitamos hacer la primera exportación de manera manual. 
+
+1. Para esto vamos a "Archivo" y seleccionamos "Exportar biblioteca". ![](https://i.imgur.com/R1gpm5k.png)
+2. Del menú desplegable, seleccionamos Better BibLaTeX. ![](https://i.imgur.com/7VFAdib.png)
+3. Y hacemos click en "Mantener actualizado". Esto último es muy importante, porque cada vez que hagamos un cambio en nuestra biblioteca, el complemento actualizará automáticamente el archivo .bib que generemos. (Y nos evita tener que hacer esto a mano cada vez que agreguemos algo a nuestro Zotero). ![](https://i.imgur.com/AfP39Ft.png)
+4. Hacemos click en "Ok" y nos va a pedir que elijamos una carpeta para guardar el archivo .bib. A modo de sugerencia, para asegurarnos que esté disponible en cualquier dispositivo, pueden elegir la carpeta de la nube que usen (OneDrive para este ejemplo). ![](https://i.imgur.com/23KUA0l.png)
+5. El archivo .bib con todas las claves bibliográficas listas para usar en LaTeX ya está creado y listo en la nube para que podamos trabajar desde cualquier dispositivo. ![](https://i.imgur.com/52d5HF9.jpg)
