@@ -50,4 +50,10 @@ BibTeX es (una) de las maneras en las que se manejan las biblografías en LaTeX.
 
 ### Instalación
 
-1. Tal como ZotFile, Better BibTex se instala como una extensión a Zotero.
+Tal como ZotFile, Better BibTex se instala como una extensión a Zotero.
+
+1. Vamos al [sitio de Better BibTex] y descargamos el .xpi (https://retorque.re/zotero-better-bibtex/) ![](https://i.imgur.com/.png) ![](https://i.imgur.com/e7I97ex.png)
+2. Tal como hicimos con ZotFile más arriba, lo instalamos desde el gestor de complementos de Zotero.
+3. Hacemos click en "Herramientas" y luego "complementos". ![](https://i.imgur.com/iWZNDt1.png)
+4. Ahora "Instalar complemento desde archivo" y buscamos el .xpi de Better BibTex que descargamos en 1. ![](https://i.imgur.com/u8SG2Sr.png)
+5. Seguimos los pasos, tal como hicimos con ZotFile. También tendremos que reiniciar. [](https://i.imgur.com/c7EvyTQ.png)
