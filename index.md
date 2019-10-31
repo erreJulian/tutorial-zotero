@@ -4,27 +4,19 @@ Tutorial para instalar Zotero, ZotFile y Better BibTex para Zotero.
  
 1. En [la página de Zotero](http://www.zotero.org) hacer click en "Download".
 
-2. Descargar para el sistema operativo que usen e instalar.
+2. Descargar para el sistema operativo que usen e instalar. ![](https://i.imgur.com/fUxf4AE.png)
 
-![](https://i.imgur.com/fUxf4AE.png)
+3. Luego instalar el Conector. Es lo que permite cargar cosas directamente desde el navegador que prefieran. (Más sobre esto, luego) ![](https://i.imgur.com/tXdNVoR.png)
 
-3. Luego instalar el Conector. Es lo que permite cargar cosas directamente desde el navegador que prefieran. (Más sobre esto, luego)
-![](https://i.imgur.com/tXdNVoR.png)
+4. Tenemos Zotero instalado en la compu, pero la base de datos todavía está vacía: ![](https://i.imgur.com/pCo4K1A.png)
 
-4. Tenemos Zotero instalado en la compu, pero la base de datos todavía está vacía:
-
-![](https://i.imgur.com/pCo4K1A.png)
-
-5. Podemos sumarle cosas arrastrando y soltando archivos de cualquier carpeta a la pantalla principal:
-![](https://i.imgur.com/bSJDgfL.png)
+5. Podemos sumarle cosas arrastrando y soltando archivos de cualquier carpeta a la pantalla principal: ![](https://i.imgur.com/bSJDgfL.png)
 
 6. O usar el conector que se instaló en 3. y agregar desde la página de la revista que nos interese:![](https://i.imgur.com/0ny7xCO.png)
 
-    + Debería salir un cartel como el siguiente:
-    + ![](https://i.imgur.com/dgERWmh.png)
+    + Debería salir un cartel como el siguiente: ![](https://i.imgur.com/dgERWmh.png)
     
-7. Y aparece el artículo en nuestra biblioteca, con los metadatos en el panel de la derecha.
-![](https://i.imgur.com/MA9wiNQ.png)
+7. Y aparece el artículo en nuestra biblioteca, con los metadatos en el panel de la derecha. ![](https://i.imgur.com/MA9wiNQ.png)
 
 
 ## ZotFile
