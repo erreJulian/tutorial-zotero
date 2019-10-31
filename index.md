@@ -64,7 +64,7 @@ Tal como ZotFile, Better BibTex se instala como una extensión a Zotero.
 A diferencia de ZotFile, Better BibTex es un complemento que funciona casi solo. Recordemos que lo necesitamos sólo si quisiéramos usar LaTeX para escribir, por lo que queremos que Zotero (con Better BibTex) nos genere un archivo .bib con todas las "claves" que necesitamos para que LaTeX pueda armar la bibliografía automáticamente (como bien (mostró Valentín en el último encuentro del ciclo de talleres)[https://github.com/valentinbasel/taller_latex]).Para ello necesitamos hacer la primera exportación de manera manual. 
 
 1. Para esto vamos a "Archivo" y seleccionamos "Exportar biblioteca". ![](https://i.imgur.com/R1gpm5k.png)
-2. Del menú desplegable, seleccionamos Better BibLaTeX. ![](https://i.imgur.com/7VFAdib.png)
+2. Del menú desplegable, seleccionamos Better BibLaTeX. ![](https://i.imgur.com/DQAORjn.png)
 3. Y hacemos click en "Mantener actualizado". Esto último es muy importante, porque cada vez que hagamos un cambio en nuestra biblioteca, el complemento actualizará automáticamente el archivo .bib que generemos. (Y nos evita tener que hacer esto a mano cada vez que agreguemos algo a nuestro Zotero). ![](https://i.imgur.com/AfP39Ft.png)
 4. Hacemos click en "Ok" y nos va a pedir que elijamos una carpeta para guardar el archivo .bib. A modo de sugerencia, para asegurarnos que esté disponible en cualquier dispositivo, pueden elegir la carpeta de la nube que usen (OneDrive para este ejemplo). ![](https://i.imgur.com/23KUA0l.png)
 5. El archivo .bib con todas las claves bibliográficas listas para usar en LaTeX ya está creado y listo en la nube para que podamos trabajar desde cualquier dispositivo. ![](https://i.imgur.com/52d5HF9.jpg)
