@@ -1,5 +1,5 @@
 Tutorial para instalar Zotero, ZotFile y Better BibTex para Zotero.
-## Primeros pasos
+## 1) Primeros pasos
  
 1. En [la página de Zotero](http://www.zotero.org) hacer click en "Download".
 2. Descargar para el sistema operativo que usen e instalar. ![](https://i.imgur.com/fUxf4AE.png)
@@ -11,7 +11,7 @@ Tutorial para instalar Zotero, ZotFile y Better BibTex para Zotero.
 7. Y aparece el artículo en nuestra biblioteca, con los metadatos en el panel de la derecha. ![](https://i.imgur.com/MA9wiNQ.png)
 
 
-## ZotFile
+## 2) ZotFile
 
 ZotFile es el complemento que nxs permite manejar los archivos que la base de datos puede tener de una mejor manera. Entre otras:
 + Alojarlos en una nube, para tenerlos a disposición en múltiples lugares.
@@ -44,7 +44,7 @@ Para ello, es necesario hacer lo siguiente:
 5. Hacemos click en "Herramientas" y luego "Preferencias de ZotFile" ![](https://i.imgur.com/T815LNG.png)
 6. Y seleccionamos la misma carpeta que seleccionamos en 3. ![](https://i.imgur.com/JwrDNIf.png)
 
-## Better BibTeX para Zotero
+## 3) Better BibTeX para Zotero
 BibTeX es (una) de las maneras en las que se manejan las biblografías en LaTeX. _Better BibTeX for Zotero_ permite incorporar Zotero de manera más sencilla a LaTeX.
 
 ### Instalación
