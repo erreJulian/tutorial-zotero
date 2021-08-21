@@ -1,6 +1,11 @@
 Tutorial para instalar Zotero, ZotFile y Better BibTex para Zotero.
 
-## 1) Primeros pasos
+## Contenido
+1. [Zotero](##zotero)
+
+## 1) Zotero
+
+### Primeros pasos
  
 1. En [la página de Zotero](http://www.zotero.org) hacer click en "Download".
 2. Descargar para el sistema operativo que usen e instalar. ![](https://i.imgur.com/fUxf4AE.png)
@@ -11,7 +16,7 @@ Tutorial para instalar Zotero, ZotFile y Better BibTex para Zotero.
     + Debería salir un cartel como el siguiente: ![](https://i.imgur.com/dgERWmh.png)   
 7. Y aparece el artículo en nuestra biblioteca, con los metadatos en el panel de la derecha. ![](https://i.imgur.com/MA9wiNQ.png)
 
-## Instalar complementos para los procesadores de texto.
+### Instalar complementos para los procesadores de texto.
 Una de las últimas actualizaciones de Zotero hizo mucho más fácil instalar los complementos para los procesadores de texto. 
 
 1. Abrimos Zotero y vamos a "Edición" y buscamos la opción "Preferencias" en el menú. ![](https://imgur.com/3ieW6sV)
