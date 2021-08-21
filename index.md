@@ -1,9 +1,9 @@
 Tutoriales para instalar Zotero, ZotFile y Better BibTex para Zotero.
 (_Última actualización: 20/8/2021_)
 ## Contenido
-1. [Zotero](##zotero)
-2. [ZotFile](##zotfile)
-3. [Better BibTeX para Zotero](##better-bibtex-para-zotero)
+1. [Zotero](#zotero)
+2. [ZotFile](#zotfile)
+3. [Better BibTeX para Zotero](#better-bibtex-para-zotero)
 
 ## 1) Zotero
 
