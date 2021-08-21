@@ -1,5 +1,6 @@
-Tutoriales para instalar Zotero, ZotFile y Better BibTex para Zotero.
-(_Última actualización: 20/8/2021_)
+# Tutoriales para instalar Zotero, ZotFile y Better BibTex para Zotero.
+> (_Última actualización: 20/8/2021_)
+
 ## Contenido
 1. [Zotero](#1-zotero)
 2. [ZotFile](#2-zotfile)
@@ -46,7 +47,7 @@ ZotFile es el complemento que nxs permite manejar los archivos que la base de da
 Recordemos que queríamos ZotFile para poder tener nuestra biblioteca disponible en algún servicio en la nube (o simplemente, más accesibles via exploradores de archivos que la intrincada estructura de carpetas que maneja Zotero)
 Para ello, es necesario hacer lo siguiente:
 
-> `Acá vamos a empezar a tocar cosas del funcionamiento de Zotero, así que debemos proceder con cuidado.`
+> `Acá vamos a empezar a modificar cosas más finas del funcionamiento de Zotero, así que debemos proceder con cuidado.`
  
 1. Una vez hemos terminado la instalación, siguiendo las instrucciones de la sección anterior, en Zotero hacemos click en "Edición" y después en  "Preferencias". ![](https://i.imgur.com/27ZJLLv.png)
 2. En las preferencias de Zotero, hacemos click en "Avanzadas" y luego en "Archivos y carpetas" ![](https://i.imgur.com/WDtPFP0.png)
