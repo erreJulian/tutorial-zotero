@@ -1,5 +1,11 @@
 # Tutoriales para instalar Zotero, ZotFile y Better BibTex para Zotero.
 > (_Última actualización: 20/8/2021_)
+---
+
+# Importante:
+Este tutorial es del año 2021, por lo que la información aquí expuesta puede estar desactualizada. Puntualmente, en agosto de 2024 Zotero publicó la séptima versión de su programa que rompió la compatibilidad con Zotfile. En la página de descargas de Zotero, de todas maneras, se puede obtener la versión 6.
+
+---
 
 ## Contenido
 1. [Zotero](#1-zotero)
